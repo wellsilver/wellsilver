@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wellsilver
 - 👀 I’m interested in.. cool stuff
-- 🌱 I’m currently learning.. C++, SQL, luau, lua, basic python, basic javascript
-- 💞️ I’m looking to collaborate on.. nothing, I am flying solo
+- 🌱 I’m currently learning.. C#, SQL, basic javascript
 - 📫 How to reach me.. wellsilver2016@gmail.com
 
 <!---
