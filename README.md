@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @wellsilver
-- 👀 I’m interested in..
-- 🌱 I’m currently learning.. C#, SQL, basic javascript
-- 📫 How to reach me.. wellsilver2016@gmail.com
+Ello heres just a list of meh repoositorys
+| lang | name | priority |
+|------|------|----------|
+| Python | EZBot(?) | 1 |
+| Multi | EZServer | 2 |
+| Batch | Silver | ✖️ |
 
 <!---
 wellsilver/wellsilver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
