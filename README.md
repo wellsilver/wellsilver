@@ -1,4 +1,7 @@
 
-wellsilver/wellsilver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi
 
-You can click the Preview link to take a look at your changes.
+Current projects(?)
+
+- Disclang3 - high level language that compiles to c with python
+- Artery - art program in rust with opengl
