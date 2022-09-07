@@ -1,7 +1,7 @@
 
 Hi
 
-Current projects(?)
+Current projects
 
 - Disclang3 - high level language that compiles to c with python (on [replit](https://replit.com/@WellSilver/Disclang3#main.py))
 - Artery - art program in rust with opengl (too lazy to post src somewhere)
