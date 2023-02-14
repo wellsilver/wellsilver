@@ -1,1 +1,1 @@
-<img ref="https://github-stats-alpha.vercel.app/api?username=wellsilver">
+<img href="https://github-stats-alpha.vercel.app/api?username=wellsilver">
