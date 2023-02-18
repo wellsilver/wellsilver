@@ -16,6 +16,6 @@
   
   | Project | What I added |
   | ------- | ------------ |
-  | nothing | 😢 |
+  | [Supabase-py#309]([https://github.com/supabase-community/supabase-py](https://github.com/supabase-community/supabase-py/pull/309)) | readme.md fixes |
   
 </div>
