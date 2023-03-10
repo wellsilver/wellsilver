@@ -10,6 +10,13 @@
   <p> Im wellsilver, I like low level and graphical applications, plus I love unsafe code and learn best via cheat sheets</p>
   
   <hr />
+  <p> Proficiency: </p>
+  
+  | What | Proficiency |
+  | -------- | ----------- |
+  | C | Best |
+  | SDL2 | Great |
+  | Website backend design | Ok, old fashioned |
   
   <p> My projects: </p>
   
