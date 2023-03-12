@@ -16,7 +16,7 @@
   | -------- | ----------- |
   | C | Best |
   | SDL2 | Great |
-  | Website backend design | Ok, old fashioned |
+  | Website backend | Ok, old fashioned |
   
   <p> My projects: </p>
   
