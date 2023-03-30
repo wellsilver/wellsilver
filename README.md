@@ -21,10 +21,10 @@
   
   <p> My projects: </p>
   
-  | Project | goal | description |
+  | Project | status | description |
   | ------- | ---- | ----------- |
-  | Real DB | A database thats real with you | A non-bloat database thats simple, safe, and efficient to use in real environments |
-  | Klos | Learn how computers work underneath, get profficient in low level stuff | |
+  | Real DB | 🏗 | A non-bloat database thats simple, safe, and efficient to use in real environments |
+  | Klos | 🏗 | Learn how computers work underneath, get profficient in low level stuff |
   
   <p> My contributions: </p>
   
