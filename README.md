@@ -24,6 +24,7 @@
   | Project | goal | description |
   | ------- | ---- | ----------- |
   | Real DB | A database thats real with you | A non-bloat database thats simple, safe, and efficient to use in real environments |
+  | Klos | Learn how computers work underneath, get profficient in low level stuff | |
   
   <p> My contributions: </p>
   
