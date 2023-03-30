@@ -15,6 +15,7 @@
   | What | Proficiency |
   | -------- | ----------- |
   | C | Best |
+  | NASM x86 | Learning |
   | SDL2 | Great |
   | Website backend | Ok, old fashioned |
   
