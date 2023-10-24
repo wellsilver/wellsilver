@@ -9,23 +9,24 @@
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=wellsilver&theme=dark&date_format=M%20j%5B%2C%20Y%5D"> this is broken, it counts a day into the future?-->
   <p> Im Max, I like low level applications plus I write safely with unsafe practices and learn best via cheat sheets</p>
   <img src="(https://github.com/wellsilver/wellsilver/assets/67511181/41b4b0f2-45f4-44b1-bf95-a5f7749a68d5">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellsilver")
   <hr />
   <p> Proficiency: </p>
   
   | What | Proficiency |
   | -------- | ----------- |
   | C | Best |
-  | NASM x86 | Learning |
-  | SDL2 | Great |
-  | Website backend | Ok, old fashioned |
+  | Intel syntax x86 | Good |
+  | Lua | Good |
+  | Python | Good |
+  | Make | Good |
+  | Zig | Interested |
   
   <p> My projects: </p>
   
   | Project | description |
   | ------- | ----------- |
-  | Real DB | A non-bloat database thats simple, safe, and efficient to use in real environments |
   | Klos | Learn how computers work underneath, get profficient in low level stuff |
+  | Real DB | A non-bloat database thats simple, safe, and efficient to use in real environments |
   
   <p> My contributions: </p>
   
