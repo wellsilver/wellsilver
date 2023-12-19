@@ -7,7 +7,7 @@
   <h1 style="align:center"> Hello!!!!! </h1>
   <img src="https://github-stats-alpha.vercel.app/api?username=wellsilver&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=wellsilver&theme=dark&date_format=M%20j%5B%2C%20Y%5D"> this is broken, it counts a day into the future?-->
-  <p> Im Max, I like low level applications plus I write safely with unsafe practices and learn best via cheat sheets</p>
+  <p>I like low level applications plus I write safely with unsafe practices and learn best via cheat sheets</p>
   <img src="(https://github.com/wellsilver/wellsilver/assets/67511181/41b4b0f2-45f4-44b1-bf95-a5f7749a68d5">
   <hr />
   <p> Proficiency: </p>
