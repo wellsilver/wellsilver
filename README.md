@@ -27,11 +27,11 @@
   | ------- | ----------- |
   | Klos | Learn how computers work underneath, get profficient in low level stuff |
   | Real DB | A non-bloat database thats simple, safe, and efficient to use in real environments |
-  
+  <!--
   <p> My contributions: </p>
   
   | Project | What I added |
   | ------- | ------------ |
   | [Supabase-py#309]([https://github.com/supabase-community/supabase-py](https://github.com/supabase-community/supabase-py/pull/309)) | readme.md fixes |
-  
+  -->
 </div>
