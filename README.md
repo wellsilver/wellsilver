@@ -26,7 +26,7 @@
   | Project | description |
   | ------- | ----------- |
   | Klos | Learn how computers work underneath, get profficient in low level stuff |
-  | Real DB | A non-bloat database thats simple, safe, and efficient to use in real environments |
+  | Real DB | Learn higher level strategys and performant/redundant service |
   <!--
   <p> My contributions: </p>
   
